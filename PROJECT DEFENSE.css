@@ -1,0 +1,55 @@
+header{
+font-size: 20px;
+font-family: COLONNA MT;
+text-align: center;
+border: 5px solid green;
+text-transform: uppercase;
+border-radius: 5px;
+color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+FONT-FAMILY: COLONNA MT;
+FONT-WEIGHT: BOLD;
+}
+
+nav a:hover{
+    color: green;
+    text-decoration: underline;
+}
+
+
+header:hover{
+    background-color: lightgreen;
+    color:white;
+    border: 5px solid green;
+    border-radius: 5px;
+}
+
+
+body{
+    background-image: url("bruno\ logo.png");
+background-size: cover;
+background-repeat: no-repeat;
+
+    }
+    
+    U{
+        color: green;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
